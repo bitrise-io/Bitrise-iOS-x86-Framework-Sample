@@ -245,7 +245,6 @@
 					};
 					4BCDC02229E543B2001D5E0C = {
 						CreatedOnToolsVersion = 14.3;
-						TestTargetID = 4BCDC00C29E543B1001D5E0C;
 					};
 					4BCDC02C29E543B2001D5E0C = {
 						CreatedOnToolsVersion = 14.3;
@@ -689,7 +688,6 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Bitrise-iOS-x86-Framework-Sample.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Bitrise-iOS-x86-Framework-Sample";
 			};
 			name = Debug;
 		};
@@ -708,7 +706,6 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Bitrise-iOS-x86-Framework-Sample.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Bitrise-iOS-x86-Framework-Sample";
 			};
 			name = Release;
 		};
